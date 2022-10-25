@@ -1,12 +1,7 @@
 # Distorted Pixels
 
-Distorting pixels with DataTexture, based on [Infinite Bad Guy website](https://billie.withyoutube.com/)
+Portfolio Site for Gabrial Chi (ha.hahao). Display of projects and course work.
 
-![Image Title](https://tympanus.net/codrops/wp-content/uploads/2022/01/DistrotedPixels_feat.jpg)
-
-[Article on Codrops](https://tympanus.net/codrops/?p=)
-
-[Demo](http://tympanus.net/Development/DistortedPixels/)
 
 
 ## Installation
@@ -29,16 +24,10 @@ Create the build:
 npx parcel build index.html
 ```
 
-## Credits
-
-- Images from [Unsplash](https://unsplash.com/)
-
-## Misc
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
-
 ## License
 [MIT](LICENSE)
+
+Distorting pixels with DataTexture, based on [Infinite Bad Guy website](https://billie.withyoutube.com/) - Developed from Codrops pixel distoring demo - referenced below. 
 
 Made with :blue_heart:  by [Codrops](http://www.codrops.com)
 
