@@ -1,7 +1,7 @@
 import * as THREE from "./three/build/three.module.js";
 import fragment from "./shader/fragment.glsl";
 import vertex from "./shader/vertex.glsl";
-import GUI from "lil-gui";
+import GUI from "./lil-gui";
 
 function clamp(number, min, max) {
   return Math.max(min, Math.min(number, max));
