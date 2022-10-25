@@ -1,4 +1,4 @@
-import * as THREE from "three";
+import * as THREE from "../node_modules/three/build/three.js";
 import fragment from "./shader/fragment.glsl";
 import vertex from "./shader/vertex.glsl";
 import GUI from "lil-gui";
